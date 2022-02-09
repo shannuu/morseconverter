@@ -46,5 +46,6 @@ IF THE ABOVE CHARACTER DOESNT HAS A MORSE CODE THE FILE RETURNS AN ERROR LINE
 
 ## UPDATE
 
-COMMAND TO UPDATE THE REPOSITORY AUTOMATICALLY `bash $HOME/morseconverter/update.sh && cd`
-COMMAND TO UPDATE THE REPOSITORY MANUALLY `cd && rm -rf morseconverter && git clone https://github.com/shannuu/morseconverter`
+* COMMAND TO UPDATE THE REPOSITORY AUTOMATICALLY `bash $HOME/morseconverter/update.sh && cd`
+
+* COMMAND TO UPDATE THE REPOSITORY MANUALLY `cd && rm -rf morseconverter && git clone https://github.com/shannuu/morseconverter`
